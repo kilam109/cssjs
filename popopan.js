@@ -1,5 +1,5 @@
       //<![CDATA[
-	  // var url_ppp = 'http://comnieusingapore.com';
+      var url_popup = 'http://comnieusingapore.com';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
