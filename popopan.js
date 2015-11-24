@@ -1,4 +1,4 @@
-      //<![CDATA[
+      //đổi link phía dưới để chạy popup ẩn
       var url_popup = 'http://comnieusingapore.com';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
