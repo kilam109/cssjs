@@ -105,7 +105,7 @@
 			}	
 			
         });//each call
-    }//orbit plugin call
+    }//thay đổi link và hình ảnh phía dưới để thay đổi popup đầu trang
 })(jQuery);
         
 $(window).load(function() {
